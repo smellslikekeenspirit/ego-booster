@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de5661ef-ce6f-42ec-88c6-09f74b2953ab" name="Changes" comment="idk">
+      <change afterPath="$PROJECT_DIR$/../egobooster/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/dancing_bee.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egobooster/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/egobooster.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/egobooster.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/warn-egobooster.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/egobooster/xref-egobooster.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/main.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/warn-main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/main/xref-main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/egobooster.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/egobooster.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dist/main.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2b9NoWun5lnM3q6TryiTjcAWI4Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/priontinasir/PycharmProjects/egobooster"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="egobooster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="egobooster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="egobooster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="egobooster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="egobooster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="egobooster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de5661ef-ce6f-42ec-88c6-09f74b2953ab" name="Changes" comment="" />
+      <created>1705623510033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705623510033</updated>
+    </task>
+    <task id="LOCAL-00001" summary="idk">
+      <created>1705624057815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705624057815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idk" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk" />
+  </component>
+</project>
